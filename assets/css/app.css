@@ -33,7 +33,13 @@ textarea {
     font-family: inherit;
     font-size: inherit;
 }
+.helptext {
+    color: red;
+    display: block;
+    font-size: 0.8em;
+    font-style: italic;
 
+}
 
 /* Grid */
 .container {
